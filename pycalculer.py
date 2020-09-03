@@ -74,7 +74,7 @@ def usandoVariaveis():
             cal = int(l1)+int(l2)
             calv=lbk1+"+"+lbk2+"+"+lbk3+"="+str(cal)+"x"+"+"+lbk3
             print(calv)
-            calv= str(180)+"º"+"-"+"("+str(cal)+"x"+"+"+lbk3+")"+"="+"0"
+            calv= str(180)+"º"+"-"+"("+str(cal)+"x"+"+"+lbk3+")"+"="+"0" #formula de ativação
             print(calv)
             cal= 180-int(l3)
             x7 = cal
